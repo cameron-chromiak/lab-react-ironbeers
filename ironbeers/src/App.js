@@ -3,13 +3,6 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import AllBeers from './components/AllBeers'
 import RandomBeers from './components/RandomBeers'
 
-class About extends React.Component {
-
-
-  render(){
-      return <h2>About</h2>;
-  }
-}
 
 
 class Index extends React.Component {
